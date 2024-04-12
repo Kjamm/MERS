@@ -1,1 +1,1 @@
-# MERS
+Import MERS virus sequence data
